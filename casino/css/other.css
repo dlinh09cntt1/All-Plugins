@@ -1,0 +1,23 @@
+/*Tab*/
+.nav-tab-wrapper a{
+	outline: none;
+}
+.nav-tab-wrapper a:focus{
+	box-shadow: none;
+}
+.casino-settings-wrap .settings_panel:not(#settings-general_casino){
+	display:none;
+}
+.select_font .list_icon{
+	min-width: 220px;
+    max-height: 130px;
+    overflow: hidden;
+    overflow-y: scroll;
+    padding-left: 15px;
+}
+.select_font .list_icon li{
+	cursor: pointer;
+}
+.select_font .list_icon li i{
+	padding-right:8px;
+}

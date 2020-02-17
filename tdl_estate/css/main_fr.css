@@ -1,0 +1,130 @@
+.single-estate{
+	max-width:1170px;
+	height:auto;
+	margin:0 auto;
+}
+.single-estate .single-featured-image-header{display:none;}
+.tdl-garelly-image{position:relative;}
+.tdl-garelly-image .size-full{
+	width:100%;
+}
+.tdl-garelly-slider{
+	max-height:200px;
+	overflow:hidden;
+}
+.tdl-garelly-slider li{
+	max-width:25%;
+	display:inline-block;
+	vertical-align:middle;
+	width:24.5%;
+}
+.tdl-garelly-slider li a{
+	display:block;
+	padding:5px;
+}
+.tdl-next{
+	position:absolute;
+    right:15px;
+    border-radius:50%;
+    top:50%;
+    transform:translateY(-50%);
+}
+.tdl-prev{
+	position:absolute;
+    top:50%;
+    left:0;
+    border-radius:50%;
+    transform:translateY(-50%);
+}
+.tdl-next svg,.tdl-prev svg{
+	cursor:pointer;
+	border-radius: 50%;
+    background: #fff;
+}
+.tdl-filter-search{
+	border: 1px solid #dcdcdc;
+    padding: 10px;
+}
+.tdl_sizes,.tdl_prices{
+	height:90px;
+	position:relative;
+	top:60px;
+}
+.tdl_sizes label,.tdl_prices label{
+	vertical-align:middle;
+    margin:0;
+    font-size:14px;
+	position:relative;
+	top:-50px;
+}
+#slider-size #min_size{
+	margin: 0;
+    padding: 0;
+    display: inline-block;
+    max-width: 50px;
+    vertical-align: middle;
+	position:relative;
+	top:-50px;
+}
+#slider-size #max_size{
+	display: inline-block;
+    padding: 0;
+    margin: 0;
+    max-width: 120px;
+    vertical-align: middle;
+	position:relative;
+	top:-50px;
+}
+#slider-holder #pricefrom{
+	margin: 0;
+    padding: 0;
+    display: inline-block;
+    max-width: 80px;
+    vertical-align: middle;
+	position:relative;
+	top:-50px;
+}
+#slider-holder #priceto{
+	display: inline-block;
+    padding: 0;
+    margin: 0;
+    max-width:95px;
+    vertical-align: middle;
+	position:relative;
+	top:-50px;
+}
+.filter-content{
+	clear:both;
+    display:block;
+    position:relative;
+    z-index:99;
+}
+.archive-estate .tdl_loading{
+	position:relative;
+}
+.archive-estate .tdl_loading:before{
+	content: "";
+    width: 100%;
+    height: 100%;
+    background: rgba(255,255,255,0.9);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+.archive-estate .tdl_loading:after{
+	content: "";
+    background: url(../css/bars.svg) no-repeat 0 0;
+    background-size: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 50px;
+    height: 50px;
+    -webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    z-index: 999;
+}

@@ -1,0 +1,182 @@
+[
+ {
+   "ID_City": "T24",
+   "Name_City": "Quận Ba Đình",
+   "ID_Wards": "H_BD24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Quận Hoàn Kiếm",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Quận Tây Hồ",
+   "ID_Wards": "H_TH24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Quận Long Biên",
+   "ID_Wards": "H_LB24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Quận Cầu Giấy",
+   "ID_Wards": "H_CG24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Quận Đống Đa",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Quận Hai Bà Trưng",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Quận Hoàng Mai",
+   "ID_Wards": "H_HM24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Quận Thanh Xuân",
+   "ID_Wards": "H_TX24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Huyện Sóc Sơn",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Huyện Đông Anh",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Huyện Gia Lâm",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Quận Nam Từ Liêm",
+   "ID_Wards": "H_NTL24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Huyện Thanh Trì",
+   "ID_Wards": "H_TT24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Quận Bắc Từ Liêm",
+   "ID_Wards": "H_BTL24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Huyện Mê Linh",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Quận Hà Đông",
+   "ID_Wards": "H_HD24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Thị xã Sơn Tây",
+   "ID_Wards": "H_ST24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Huyện Ba Vì",
+   "ID_Wards": "H_BV24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Huyện Phúc Thọ",
+   "ID_Wards": "H_PT24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Huyện Đan Phượng",
+   "ID_Wards": "H_DP24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Huyện Hoài Đức",
+   "ID_Wards": "H_HD24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Huyện Quốc Oai",
+   "ID_Wards": "H_QC24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Huyện Thạch Thất",
+   "ID_Wards": "H_TT24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Huyện Chương Mỹ",
+   "ID_Wards": "H_CM24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Huyện Thanh Oai",
+   "ID_Wards": "H_TO24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Huyện Thường Tín",
+   "ID_Wards": "H_TTI24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Huyện Phú Xuyên",
+   "ID_Wards": "H_PX24"
+ },
+ {
+   "ID_City": "T24",
+   "Name_City": "Huyện Ứng Hòa",
+   "ID_Wards": "H_UH24"
+ },
+ {
+   "ID_City": "T15",
+   "Name_City": "Quận Liên Chiểu",
+   "ID_Wards": "H_LC15"
+ },
+ {
+   "ID_City": "T15",
+   "Name_City": "Quận Thanh Khê",
+   "ID_Wards": "H_TK15"
+ },
+ {
+   "ID_City": "T15",
+   "Name_City": "Quận Hải Châu",
+   "ID_Wards": "H_HC15"
+ },
+ {
+   "ID_City": "T15",
+   "Name_City": "Quận Sơn Trà",
+   "ID_Wards": "H_ST15"
+ },
+ {
+   "ID_City": "T15",
+   "Name_City": "Quận Ngũ Hành Sơn",
+   "ID_Wards": "H_NHS15"
+ },
+ {
+   "ID_City": "T15",
+   "Name_City": "Quận Cẩm Lệ",
+   "ID_Wards": "H_CL15"
+ },
+ {
+   "ID_City": "T15",
+   "Name_City": "Huyện Hòa Vang",
+   "ID_Wards": "H_HV15"
+ }
+]

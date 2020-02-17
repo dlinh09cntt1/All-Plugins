@@ -1,0 +1,10 @@
+/* Gallery Images*/
+#gallery-metabox-list li {
+	display:inline-block;
+	vertical-align:top;
+	width:150px;
+	text-align:center;
+	margin:10px 10px 10px 0;
+	cursor:move;
+}
+.single-estate .single-featured-image-header{display:none;}

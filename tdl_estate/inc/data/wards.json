@@ -1,0 +1,1254 @@
+[
+ {
+   "Name_Wards": "Phường Phúc Xá",
+   "ID_Wards": "H_BD24"
+ },
+ {
+   "Name_Wards": "Phường Trúc Bạch",
+   "ID_Wards": "H_BD24"
+ },
+ {
+   "Name_Wards": "Phường Vĩnh Phúc",
+   "ID_Wards": "H_BD24"
+ },
+ {
+   "Name_Wards": "Phường Cống Vị",
+   "ID_Wards": "H_BD24"
+ },
+ {
+   "Name_Wards": "Phường Liễu Giai",
+   "ID_Wards": "H_BD24"
+ },
+ {
+   "Name_Wards": "Phường Nguyễn Trung Trực",
+   "ID_Wards": "H_BD24"
+ },
+ {
+   "Name_Wards": "Phường Quán Thánh",
+   "ID_Wards": "H_BD24"
+ },
+ {
+   "Name_Wards": "Phường Ngọc Hà",
+   "ID_Wards": "H_BD24"
+ },
+ {
+   "Name_Wards": "Phường Điện Biên",
+   "ID_Wards": "H_BD24"
+ },
+ {
+   "Name_Wards": "Phường Đội Cấn",
+   "ID_Wards": "H_BD24"
+ },
+ {
+   "Name_Wards": "Phường Ngọc Khánh",
+   "ID_Wards": "H_BD24"
+ },
+ {
+   "Name_Wards": "Phường Kim Mã",
+   "ID_Wards": "H_BD24"
+ },
+ {
+   "Name_Wards": "Phường Giảng Võ",
+   "ID_Wards": "H_BD24"
+ },
+ {
+   "Name_Wards": "Phường Thành Công",
+   "ID_Wards": "H_BD24"
+ },
+ {
+   "Name_Wards": "Phường Phúc Tân",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "Name_Wards": "Phường Đồng Xuân",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "Name_Wards": "Phường Hàng Mã",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "Name_Wards": "Phường Hàng Buồm",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "Name_Wards": "Phường Hàng Đào",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "Name_Wards": "Phường Hàng Bồ",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "Name_Wards": "Phường Cửa Đông",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "Name_Wards": "Phường Lý Thái Tổ",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "Name_Wards": "Phường Hàng Bạc",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "Name_Wards": "Phường Hàng Gai",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "Name_Wards": "Phường Chương Dương",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "Name_Wards": "Phường Hàng Trống",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "Name_Wards": "Phường Cửa Nam",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "Name_Wards": "Phường Hàng Bông",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "Name_Wards": "Phường Tràng Tiền",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "Name_Wards": "Phường Trần Hưng Đạo",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "Name_Wards": "Phường Phan Chu Trinh",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "Name_Wards": "Phường Hàng Bài",
+   "ID_Wards": "H_HK24"
+ },
+ {
+   "Name_Wards": "Phường Phú Thượng",
+   "ID_Wards": "H_TH24"
+ },
+ {
+   "Name_Wards": "Phường Nhật Tân",
+   "ID_Wards": "H_TH24"
+ },
+ {
+   "Name_Wards": "Phường Tứ Liên",
+   "ID_Wards": "H_TH24"
+ },
+ {
+   "Name_Wards": "Phường Quảng An",
+   "ID_Wards": "H_TH24"
+ },
+ {
+   "Name_Wards": "Phường Xuân La",
+   "ID_Wards": "H_TH24"
+ },
+ {
+   "Name_Wards": "Phường Yên Phụ",
+   "ID_Wards": "H_TH24"
+ },
+ {
+   "Name_Wards": "Phường Bưởi",
+   "ID_Wards": "H_TH24"
+ },
+ {
+   "Name_Wards": "Phường Thụy Khuê",
+   "ID_Wards": "H_TH24"
+ },
+ {
+   "Name_Wards": "Phường Thượng Thanh",
+   "ID_Wards": "H_LB24"
+ },
+ {
+   "Name_Wards": "Phường Ngọc Thụy",
+   "ID_Wards": "H_LB24"
+ },
+ {
+   "Name_Wards": "Phường Giang Biên",
+   "ID_Wards": "H_LB24"
+ },
+ {
+   "Name_Wards": "Phường Đức Giang",
+   "ID_Wards": "H_LB24"
+ },
+ {
+   "Name_Wards": "Phường Việt Hưng",
+   "ID_Wards": "H_LB24"
+ },
+ {
+   "Name_Wards": "Phường Gia Thụy",
+   "ID_Wards": "H_LB24"
+ },
+ {
+   "Name_Wards": "Phường Ngọc Lâm",
+   "ID_Wards": "H_LB24"
+ },
+ {
+   "Name_Wards": "Phường Phúc Lợi",
+   "ID_Wards": "H_LB24"
+ },
+ {
+   "Name_Wards": "Phường Bồ Đề",
+   "ID_Wards": "H_LB24"
+ },
+ {
+   "Name_Wards": "Phường Sài Đồng",
+   "ID_Wards": "H_LB24"
+ },
+ {
+   "Name_Wards": "Phường Long Biên",
+   "ID_Wards": "H_LB24"
+ },
+ {
+   "Name_Wards": "Phường Thạch Bàn",
+   "ID_Wards": "H_LB24"
+ },
+ {
+   "Name_Wards": "Phường Phúc Đồng",
+   "ID_Wards": "H_LB24"
+ },
+ {
+   "Name_Wards": "Phường Cự Khối",
+   "ID_Wards": "H_LB24"
+ },
+ {
+   "Name_Wards": "Phường Nghĩa Đô",
+   "ID_Wards": "H_CG24"
+ },
+ {
+   "Name_Wards": "Phường Nghĩa Tân",
+   "ID_Wards": "H_CG24"
+ },
+ {
+   "Name_Wards": "Phường Mai Dịch",
+   "ID_Wards": "H_CG24"
+ },
+ {
+   "Name_Wards": "Phường Dịch Vọng",
+   "ID_Wards": "H_CG24"
+ },
+ {
+   "Name_Wards": "Phường Dịch Vọng Hậu",
+   "ID_Wards": "H_CG24"
+ },
+ {
+   "Name_Wards": "Phường Quan Hoa",
+   "ID_Wards": "H_CG24"
+ },
+ {
+   "Name_Wards": "Phường Yên Hoà",
+   "ID_Wards": "H_CG24"
+ },
+ {
+   "Name_Wards": "Phường Trung Hoà",
+   "ID_Wards": "H_CG24"
+ },
+ {
+   "Name_Wards": "Phường Cát Linh",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Văn Miếu",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Quốc Tử Giám",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Láng Thượng",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Ô Chợ Dừa",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Văn Chương",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Hàng Bột",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Láng Hạ",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Khâm Thiên",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Thổ Quan",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Nam Đồng",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Trung Phụng",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Quang Trung",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Trung Liệt",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Phương Liên",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Thịnh Quang",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Trung Tự",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Kim Liên",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Phương Mai",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Ngã Tư Sở",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Khương Thượng",
+   "ID_Wards": "H_DD24"
+ },
+ {
+   "Name_Wards": "Phường Nguyễn Du",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Bạch Đằng",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Phạm Đình Hổ",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Bùi Thị Xuân",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Ngô Thì Nhậm",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Lê Đại Hành",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Đồng Nhân",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Phố Huế",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Đống Mác",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Thanh Lương",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Thanh Nhàn",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Cầu Dền",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Bách Khoa",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Đồng Tâm",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Vĩnh Tuy",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Bạch Mai",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Quỳnh Mai",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Quỳnh Lôi",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Minh Khai",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Trương Định",
+   "ID_Wards": "H_HBT24"
+ },
+ {
+   "Name_Wards": "Phường Thanh Trì",
+   "ID_Wards": "H_HM24"
+ },
+ {
+   "Name_Wards": "Phường Vĩnh Hưng",
+   "ID_Wards": "H_HM24"
+ },
+ {
+   "Name_Wards": "Phường Định Công",
+   "ID_Wards": "H_HM24"
+ },
+ {
+   "Name_Wards": "Phường Mai Động",
+   "ID_Wards": "H_HM24"
+ },
+ {
+   "Name_Wards": "Phường Tương Mai",
+   "ID_Wards": "H_HM24"
+ },
+ {
+   "Name_Wards": "Phường Đại Kim",
+   "ID_Wards": "H_HM24"
+ },
+ {
+   "Name_Wards": "Phường Tân Mai",
+   "ID_Wards": "H_HM24"
+ },
+ {
+   "Name_Wards": "Phường Hoàng Văn Thụ",
+   "ID_Wards": "H_HM24"
+ },
+ {
+   "Name_Wards": "Phường Giáp Bát",
+   "ID_Wards": "H_HM24"
+ },
+ {
+   "Name_Wards": "Phường Lĩnh Nam",
+   "ID_Wards": "H_HM24"
+ },
+ {
+   "Name_Wards": "Phường Thịnh Liệt",
+   "ID_Wards": "H_HM24"
+ },
+ {
+   "Name_Wards": "Phường Trần Phú",
+   "ID_Wards": "H_HM24"
+ },
+ {
+   "Name_Wards": "Phường Hoàng Liệt",
+   "ID_Wards": "H_HM24"
+ },
+ {
+   "Name_Wards": "Phường Yên Sở",
+   "ID_Wards": "H_HM24"
+ },
+ {
+   "Name_Wards": "Phường Nhân Chính",
+   "ID_Wards": "H_TX24"
+ },
+ {
+   "Name_Wards": "Phường Thượng Đình",
+   "ID_Wards": "H_TX25"
+ },
+ {
+   "Name_Wards": "Phường Khương Trung",
+   "ID_Wards": "H_TX26"
+ },
+ {
+   "Name_Wards": "Phường Khương Mai",
+   "ID_Wards": "H_TX27"
+ },
+ {
+   "Name_Wards": "Phường Thanh Xuân Trung",
+   "ID_Wards": "H_TX28"
+ },
+ {
+   "Name_Wards": "Phường Phương Liệt",
+   "ID_Wards": "H_TX29"
+ },
+ {
+   "Name_Wards": "Phường Hạ Đình",
+   "ID_Wards": "H_TX30"
+ },
+ {
+   "Name_Wards": "Phường Khương Đình",
+   "ID_Wards": "H_TX31"
+ },
+ {
+   "Name_Wards": "Phường Thanh Xuân Bắc",
+   "ID_Wards": "H_TX32"
+ },
+ {
+   "Name_Wards": "Phường Thanh Xuân Nam",
+   "ID_Wards": "H_TX33"
+ },
+ {
+   "Name_Wards": "Phường Kim Giang",
+   "ID_Wards": "H_TX34"
+ },
+ {
+   "Name_Wards": "Thị trấn Sóc Sơn",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Bắc Sơn",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Minh Trí",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Hồng Kỳ",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Nam Sơn",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Trung Giã",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Tân Hưng",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Minh Phú",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Phù Linh",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Bắc Phú",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Tân Minh",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Quang Tiến",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Hiền Ninh",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Tân Dân",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Tiên Dược",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Việt Long",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Xuân Giang",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Mai Đình",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Đức Hoà",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Thanh Xuân",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Đông Xuân",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Kim Lũ",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Phú Cường",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Phú Minh",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Phù Lỗ",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Xã Xuân Thu",
+   "ID_Wards": "H_SS24"
+ },
+ {
+   "Name_Wards": "Thị trấn Đông Anh",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Xuân Nộn",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Thuỵ Lâm",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Bắc Hồng",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Nguyên Khê",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Nam Hồng",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Tiên Dương",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Vân Hà",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Uy Nỗ",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Vân Nội",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Liên Hà",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Việt Hùng",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Kim Nỗ",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Kim Chung",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Dục Tú",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Đại Mạch",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Vĩnh Ngọc",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Cổ Loa",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Hải Bối",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Xuân Canh",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Võng La",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Tầm Xá",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Mai Lâm",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Xã Đông Hội",
+   "ID_Wards": "H_DA24"
+ },
+ {
+   "Name_Wards": "Thị trấn Yên Viên",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Yên Thường",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Yên Viên",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Ninh Hiệp",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Đình Xuyên",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Dương Hà",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Phù Đổng",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Trung Mầu",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Lệ Chi",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Cổ Bi",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Đặng Xá",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Phú Thị",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Kim Sơn",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Thị trấn Trâu Quỳ",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Dương Quang",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Dương Xá",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Đông Dư",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Đa Tốn",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Kiêu Kỵ",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Bát Tràng",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Kim Lan",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Xã Văn Đức",
+   "ID_Wards": "H_GL24"
+ },
+ {
+   "Name_Wards": "Phường Cầu Diễn",
+   "ID_Wards": "H_NTL24"
+ },
+ {
+   "Name_Wards": "Phường Xuân Phương",
+   "ID_Wards": "H_NTL24"
+ },
+ {
+   "Name_Wards": "Phường Phương Canh",
+   "ID_Wards": "H_NTL24"
+ },
+ {
+   "Name_Wards": "Phường Mỹ Đình 1",
+   "ID_Wards": "H_NTL24"
+ },
+ {
+   "Name_Wards": "Phường Mỹ Đình 2",
+   "ID_Wards": "H_NTL24"
+ },
+ {
+   "Name_Wards": "Phường Tây Mỗ",
+   "ID_Wards": "H_NTL24"
+ },
+ {
+   "Name_Wards": "Phường Mễ Trì",
+   "ID_Wards": "H_NTL24"
+ },
+ {
+   "Name_Wards": "Phường Phú Đô",
+   "ID_Wards": "H_NTL24"
+ },
+ {
+   "Name_Wards": "Phường Đại Mỗ",
+   "ID_Wards": "H_NTL24"
+ },
+ {
+   "Name_Wards": "Phường Trung Văn",
+   "ID_Wards": "H_NTL24"
+ },
+ {
+   "Name_Wards": "Thị trấn Văn Điển",
+   "ID_Wards": "H_TT24"
+ },
+ {
+   "Name_Wards": "Xã Tân Triều",
+   "ID_Wards": "H_TT24"
+ },
+ {
+   "Name_Wards": "Xã Thanh Liệt",
+   "ID_Wards": "H_TT24"
+ },
+ {
+   "Name_Wards": "Xã Tả Thanh Oai",
+   "ID_Wards": "H_TT24"
+ },
+ {
+   "Name_Wards": "Xã Hữu Hoà",
+   "ID_Wards": "H_TT24"
+ },
+ {
+   "Name_Wards": "Xã Tam Hiệp",
+   "ID_Wards": "H_TT24"
+ },
+ {
+   "Name_Wards": "Xã Tứ Hiệp",
+   "ID_Wards": "H_TT24"
+ },
+ {
+   "Name_Wards": "Xã Yên Mỹ",
+   "ID_Wards": "H_TT24"
+ },
+ {
+   "Name_Wards": "Xã Vĩnh Quỳnh",
+   "ID_Wards": "H_TT24"
+ },
+ {
+   "Name_Wards": "Xã Ngũ Hiệp",
+   "ID_Wards": "H_TT24"
+ },
+ {
+   "Name_Wards": "Xã Duyên Hà",
+   "ID_Wards": "H_TT24"
+ },
+ {
+   "Name_Wards": "Xã Ngọc Hồi",
+   "ID_Wards": "H_TT24"
+ },
+ {
+   "Name_Wards": "Xã Vạn Phúc",
+   "ID_Wards": "H_TT24"
+ },
+ {
+   "Name_Wards": "Xã Đại áng",
+   "ID_Wards": "H_TT24"
+ },
+ {
+   "Name_Wards": "Xã Liên Ninh",
+   "ID_Wards": "H_TT24"
+ },
+ {
+   "Name_Wards": "Xã Đông Mỹ",
+   "ID_Wards": "H_TT24"
+ },
+ {
+   "Name_Wards": "Phường Thượng Cát",
+   "ID_Wards": "H_BTL24"
+ },
+ {
+   "Name_Wards": "Phường Liên Mạc",
+   "ID_Wards": "H_BTL24"
+ },
+ {
+   "Name_Wards": "Phường Đông Ngạc",
+   "ID_Wards": "H_BTL24"
+ },
+ {
+   "Name_Wards": "Phường Đức Thắng",
+   "ID_Wards": "H_BTL24"
+ },
+ {
+   "Name_Wards": "Phường Thụy Phương",
+   "ID_Wards": "H_BTL24"
+ },
+ {
+   "Name_Wards": "Phường Tây Tựu",
+   "ID_Wards": "H_BTL24"
+ },
+ {
+   "Name_Wards": "Phường Xuân Đỉnh",
+   "ID_Wards": "H_BTL24"
+ },
+ {
+   "Name_Wards": "Phường Xuân Tảo",
+   "ID_Wards": "H_BTL24"
+ },
+ {
+   "Name_Wards": "Phường Minh Khai",
+   "ID_Wards": "H_BTL24"
+ },
+ {
+   "Name_Wards": "Phường Cổ Nhuế 1",
+   "ID_Wards": "H_BTL24"
+ },
+ {
+   "Name_Wards": "Phường Cổ Nhuế 2",
+   "ID_Wards": "H_BTL24"
+ },
+ {
+   "Name_Wards": "Phường Phú Diễn",
+   "ID_Wards": "H_BTL24"
+ },
+ {
+   "Name_Wards": "Phường Phúc Diễn",
+   "ID_Wards": "H_BTL24"
+ },
+ {
+   "Name_Wards": "Thị trấn Chi Đông",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "Name_Wards": "Xã Đại Thịnh",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "Name_Wards": "Xã Kim Hoa",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "Name_Wards": "Xã Thạch Đà",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "Name_Wards": "Xã Tiến Thắng",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "Name_Wards": "Xã Tự Lập",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "Name_Wards": "Thị trấn Quang Minh",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "Name_Wards": "Xã Thanh Lâm",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "Name_Wards": "Xã Tam Đồng",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "Name_Wards": "Xã Liên Mạc",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "Name_Wards": "Xã Vạn Yên",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "Name_Wards": "Xã Chu Phan",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "Name_Wards": "Xã Tiến Thịnh",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "Name_Wards": "Xã Mê Linh",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "Name_Wards": "Xã Văn Khê",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "Name_Wards": "Xã Hoàng Kim",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "Name_Wards": "Xã Tiền Phong",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "Name_Wards": "Xã Tráng Việt",
+   "ID_Wards": "H_ML24"
+ },
+ {
+   "ID_Wards": "H_LC15",
+   "Name_Wards": "Phường Hòa Hiệp Bắc"
+ },
+ {
+   "ID_Wards": "H_LC15",
+   "Name_Wards": "Phường Hòa Hiệp Nam"
+ },
+ {
+   "ID_Wards": "H_LC15",
+   "Name_Wards": "Phường Hòa Khánh Bắc"
+ },
+ {
+   "ID_Wards": "H_LC15",
+   "Name_Wards": "Phường Hòa Khánh Nam"
+ },
+ {
+   "ID_Wards": "H_LC15",
+   "Name_Wards": "Phường Hòa Minh"
+ },
+ {
+   "ID_Wards": "H_TK15",
+   "Name_Wards": "Phường Tam Thuận"
+ },
+ {
+   "ID_Wards": "H_TK15",
+   "Name_Wards": "Phường Thanh Khê Tây"
+ },
+ {
+   "ID_Wards": "H_TK15",
+   "Name_Wards": "Phường Thanh Khê Đông"
+ },
+ {
+   "ID_Wards": "H_TK15",
+   "Name_Wards": "Phường Xuân Hà"
+ },
+ {
+   "ID_Wards": "H_TK15",
+   "Name_Wards": "Phường Tân Chính"
+ },
+ {
+   "ID_Wards": "H_TK15",
+   "Name_Wards": "Phường Chính Gián"
+ },
+ {
+   "ID_Wards": "H_TK15",
+   "Name_Wards": "Phường Vĩnh Trung"
+ },
+ {
+   "ID_Wards": "H_TK15",
+   "Name_Wards": "Phường Thạc Gián"
+ },
+ {
+   "ID_Wards": "H_TK15",
+   "Name_Wards": "Phường An Khê"
+ },
+ {
+   "ID_Wards": "H_TK15",
+   "Name_Wards": "Phường Hòa Khê"
+ },
+ {
+   "ID_Wards": "H_HC15",
+   "Name_Wards": "Phường Thanh Bình"
+ },
+ {
+   "ID_Wards": "H_HC15",
+   "Name_Wards": "Phường Thuận Phước"
+ },
+ {
+   "ID_Wards": "H_HC15",
+   "Name_Wards": "Phường Thạch Thang"
+ },
+ {
+   "ID_Wards": "H_HC15",
+   "Name_Wards": "Phường Hải Châu  I"
+ },
+ {
+   "ID_Wards": "H_HC15",
+   "Name_Wards": "Phường Hải Châu II"
+ },
+ {
+   "ID_Wards": "H_HC15",
+   "Name_Wards": "Phường Phước Ninh"
+ },
+ {
+   "ID_Wards": "H_HC15",
+   "Name_Wards": "Phường Hòa Thuận Tây"
+ },
+ {
+   "ID_Wards": "H_HC15",
+   "Name_Wards": "Phường Hòa Thuận Đông"
+ },
+ {
+   "ID_Wards": "H_HC15",
+   "Name_Wards": "Phường Nam Dương"
+ },
+ {
+   "ID_Wards": "H_HC15",
+   "Name_Wards": "Phường Bình Hiên"
+ },
+ {
+   "ID_Wards": "H_HC15",
+   "Name_Wards": "Phường Bình Thuận"
+ },
+ {
+   "ID_Wards": "H_HC15",
+   "Name_Wards": "Phường Hòa Cường Bắc"
+ },
+ {
+   "ID_Wards": "H_HC15",
+   "Name_Wards": "Phường Hòa Cường Nam"
+ },
+ {
+   "ID_Wards": "H_ST15",
+   "Name_Wards": "Phường Thọ Quang"
+ },
+ {
+   "ID_Wards": "H_ST15",
+   "Name_Wards": "Phường Nại Hiên Đông"
+ },
+ {
+   "ID_Wards": "H_ST15",
+   "Name_Wards": "Phường Mân Thái"
+ },
+ {
+   "ID_Wards": "H_ST15",
+   "Name_Wards": "Phường An Hải Bắc"
+ },
+ {
+   "ID_Wards": "H_ST15",
+   "Name_Wards": "Phường Phước Mỹ"
+ },
+ {
+   "ID_Wards": "H_ST15",
+   "Name_Wards": "Phường An Hải Tây"
+ },
+ {
+   "ID_Wards": "H_ST15",
+   "Name_Wards": "Phường An Hải Đông"
+ },
+ {
+   "ID_Wards": "H_NHS15",
+   "Name_Wards": "Phường Mỹ An"
+ },
+ {
+   "ID_Wards": "H_NHS15",
+   "Name_Wards": "Phường Khuê Mỹ"
+ },
+ {
+   "ID_Wards": "H_NHS15",
+   "Name_Wards": "Phường Hoà Quý"
+ },
+ {
+   "ID_Wards": "H_NHS15",
+   "Name_Wards": "Phường Hoà Hải"
+ },
+ {
+   "ID_Wards": "H_CL15",
+   "Name_Wards": "Phường Khuê Trung"
+ },
+ {
+   "ID_Wards": "H_CL15",
+   "Name_Wards": "Phường Hòa Phát"
+ },
+ {
+   "ID_Wards": "H_CL15",
+   "Name_Wards": "Phường Hòa An"
+ },
+ {
+   "ID_Wards": "H_CL15",
+   "Name_Wards": "Phường Hòa Thọ Tây"
+ },
+ {
+   "ID_Wards": "H_CL15",
+   "Name_Wards": "Phường Hòa Thọ Đông"
+ },
+ {
+   "ID_Wards": "H_CL15",
+   "Name_Wards": "Phường Hòa Xuân"
+ },
+ {
+   "ID_Wards": "H_HV15",
+   "Name_Wards": "Xã Hòa Bắc"
+ },
+ {
+   "ID_Wards": "H_HV15",
+   "Name_Wards": "Xã Hòa Liên"
+ },
+ {
+   "ID_Wards": "H_HV15",
+   "Name_Wards": "Xã Hòa Ninh"
+ },
+ {
+   "ID_Wards": "H_HV15",
+   "Name_Wards": "Xã Hòa Sơn"
+ },
+ {
+   "ID_Wards": "H_HV15",
+   "Name_Wards": "Xã Hòa Nhơn"
+ },
+ {
+   "ID_Wards": "H_HV15",
+   "Name_Wards": "Xã Hòa Phú"
+ },
+ {
+   "ID_Wards": "H_HV15",
+   "Name_Wards": "Xã Hòa Phong"
+ },
+ {
+   "ID_Wards": "H_HV15",
+   "Name_Wards": "Xã Hòa Châu"
+ },
+ {
+   "ID_Wards": "H_HV15",
+   "Name_Wards": "Xã Hòa Tiến"
+ },
+ {
+   "ID_Wards": "H_HV15",
+   "Name_Wards": "Xã Hòa Phước"
+ },
+ {
+   "ID_Wards": "H_HV15",
+   "Name_Wards": "Xã Hòa Khương"
+ }
+]
