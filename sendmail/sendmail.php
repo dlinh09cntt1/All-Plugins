@@ -3,7 +3,7 @@
  * Plugin Name: SendMail
  * Description: SendMail Plugin
  * Author:      Linh D. Tran
- * Version:     1.0.0
+ * Version:     1.0.1
  * License: GPLv2 or later
  */
 define('CA_NAME','SENDMAIL');

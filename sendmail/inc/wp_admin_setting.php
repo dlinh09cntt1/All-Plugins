@@ -23,9 +23,9 @@ if(!class_exists('SendMail_Setting_Admin')){
 							array(
 								'name'        => 'email_personnel',
 								'label'      => __( 'Email', 'sm' ),
-								'desc'       => __( 'Input Email of text field. Copy the shortcode [sendmail_piala] into the post', 'sm'),
+								'desc'       => __( 'Input Email of text field. Copy the echo do_shortcode( [sendmail_piala] ); into the post', 'sm'),
 								'type'       => 'text',
-								'std'        => 'dlinh09cntt1@gmail.com',
+								'std'        => 'linh241088@gmail.com',
 							)
 						),
 					),
