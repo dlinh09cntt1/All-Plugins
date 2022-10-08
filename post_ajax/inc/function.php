@@ -7,12 +7,12 @@ function psa_paginate_function($item_per_page, $current_page, $total_records, $t
         $pagination .= '<ul class="pagination">';
 
         $right_links = $current_page + 3;
-        $previous = $current_page - 3; //previous link
+        $previous = $current_page - 1; //previous link
         $next = $current_page + 1; //next link
         $first_link = true; //boolean var to decide our first link
 
         if($current_page > 1){
-            $previous_link = ($previous==0)?1:$previous;
+            $previous_link = ($previous==0) ? 1 : $previous;
             $pagination .= '<li class="first"><a href="#" data-page="1" title="First">&laquo;</a></li>'; //first link
             $pagination .= '<li><a href="#" data-page="'.$previous_link.'" title="Previous">&lt;</a></li>'; //previous link
             for($i = ($current_page-2); $i < $current_page; $i++){ //Create left-hand side links
@@ -37,7 +37,7 @@ function psa_paginate_function($item_per_page, $current_page, $total_records, $t
             }
         }
         if($current_page < $total_pages){
-            $next_link = ($i > $total_pages)? $total_pages : $i;
+            $next_link = ($next > $total_pages)? $total_pages : $next;
             $pagination .= '<li><a href="#" data-page="'.$next_link.'" title="Next">&gt;</a></li>'; //next link
             $pagination .= '<li class="last"><a href="#" data-page="'.$total_pages.'" title="Last">&raquo;</a></li>'; //last link
         }

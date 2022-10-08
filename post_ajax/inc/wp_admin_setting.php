@@ -17,7 +17,7 @@ if(!class_exists('Ajax_Post_Setting_Admin')){
 			$this->settings = apply_filters( 'ajax_pagination_settings',
 				array(
 					'ajax_pagination_ok' => array(
-						__( 'General Ajax Pagination(copy shortcode [psa_pagination_blog] paste to page, post)', 'ajp' ),
+						__( 'General Ajax Pagination(copy echo do_shortcode([psa_pagination_blog]); paste to page, post)', 'ajp' ),
 						array(
 							array(
 								'name'        => 'ajp_per_page',
